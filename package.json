@@ -1,0 +1,39 @@
+{
+	"name": "silex-component-http",
+	"version": "0.0.1",
+	"description": "[SILEX][COMPONENT] Little HTTP server simple and light",
+	"author": "Valentin Allaire <valentin@sitexw.fr>",
+	"license": "MIT",
+	"keywords": [
+		"http",
+		"server",
+		"simple",
+		"light",
+		"silex",
+		"component"
+	],
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {
+		"mocha": "2.x"
+	},
+	"scripts": {
+		"test": "mocha ./test/test.js"
+	},
+	"directories": {
+		"test": "test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/silexjs/component-http.git"
+	},
+	"bugs": {
+		"url": "https://github.com/silexjs/component-http/issues"
+	},
+	"homepage": "https://github.com/silexjs/component-http",
+	"autoload": {
+		"psr-4": {
+			"Silex\\Component\\Http": "./lib/"
+		}
+	}
+}
