@@ -1,6 +1,6 @@
 {
 	"name": "silex-component-http",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "[SILEX][COMPONENT] Little HTTP server simple and light",
 	"author": "Valentin Allaire <valentin@sitexw.fr>",
 	"license": "MIT",

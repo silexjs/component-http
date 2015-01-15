@@ -1,7 +1,7 @@
 Routing Component
 ========
 
-Route manager that analyzes a HTTP request.
+Little HTTP server simple and light.
 
 Package owned [Silex](https://www.npmjs.com/package/silex).
 
